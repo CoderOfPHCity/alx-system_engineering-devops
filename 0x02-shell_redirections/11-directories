@@ -1,0 +1,1 @@
+ find . -tye d -not -name .| wc -| 
