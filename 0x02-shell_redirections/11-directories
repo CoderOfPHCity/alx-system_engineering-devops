@@ -1,1 +1,2 @@
- find . -tye d -not -name .| wc -| 
+#!bin/bash
+find .-tye d -not -name .| wc -|
